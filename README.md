@@ -11,6 +11,7 @@ Integer vs Computational Time (seconds)
   - 30  -------    0
   - 40  -------    1
   - 50  -------   177
+  
   - 60  ------- 31840
  
  
