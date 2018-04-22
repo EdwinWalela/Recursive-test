@@ -11,9 +11,9 @@ Integer vs Computational Time (seconds)
   - 30  -------    0
   - 40  -------    1
   - 50  -------   177
-  - 60  -------   N/A
-  
-  
-  
-  
+  - 60  -------  31840
+ 
+ 
+ 
+ 
   What is your computational time for **'60'**??
