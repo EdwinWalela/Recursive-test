@@ -1,7 +1,7 @@
 
 ## Performance test using Fibonacci (Recursively) 
 
-A terminal application written in C++ which calculates fibonnacci of any integer
+A terminal application written in C++ which calculates the (nth) fibonnacci of any integer
 
 run `app.exe` on  your terminal
 
